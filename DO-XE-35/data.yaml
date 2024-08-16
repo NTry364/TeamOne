@@ -1,0 +1,13 @@
+names:
+- car
+- freeslot
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: do-xe
+  url: https://universe.roboflow.com/tapai/do-xe/dataset/35
+  version: 35
+  workspace: tapai
+test: test/images
+train: train/images
+val: valid/images
